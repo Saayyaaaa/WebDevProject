@@ -1,3 +1,26 @@
+The Online Store project aims to develop a comprehensive e-commerce platform that offers a wide range of products to customers worldwide. This platform will provide a user-friendly interface for both buyers and sellers, ensuring a seamless shopping experience and efficient management of inventory, orders, and payments.
+
+Product catalog:
+Various products are displayed, grouped by categories and subcategories.
+We provide detailed product descriptions, images and prices.
+We turn on the product search and filtering functions for easy navigation.
+
+User accounts:
+We allow clients to register, log in and manage their profiles.
+There will be secure authentication and authorization mechanisms.
+
+Shopping cart and checkout:
+We allow customers to add items to the shopping cart and proceed to checkout.
+
+Technologies
+Backend: Python (Django), PostgreSQL
+Frontend: HTML, CSS, JavaScript (Angular)
+Authentication: JWT (JSON Web Tokens)
+
+Group members: Kurmanov Anuar, Sherman Bekarys, Amangeldinova Saya
+
+#------------------------------------------------------------------
+
 # WebDevProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
