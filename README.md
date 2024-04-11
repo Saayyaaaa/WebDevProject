@@ -1,4 +1,4 @@
-The Online Store project aims to develop a comprehensive e-commerce platform that offers a wide range of products to customers worldwide. This platform will provide a user-friendly interface for both buyers and sellers, ensuring a seamless shopping experience and efficient management of inventory, orders, and payments.
+The Online Store project aims to develop a comprehensive e-commerce platform that offers a wide range of products to customers. This platform will provide a user-friendly interface for both buyers and sellers, ensuring a seamless shopping experience and efficient management of inventory, orders. Also cart where users can add liked products 
 
 Product catalog:
 Various products are displayed, grouped by categories and subcategories.
@@ -8,9 +8,6 @@ We turn on the product search and filtering functions for easy navigation.
 User accounts:
 We allow clients to register, log in and manage their profiles.
 There will be secure authentication and authorization mechanisms.
-
-Shopping cart and checkout:
-We allow customers to add items to the shopping cart and proceed to checkout.
 
 Technologies
 Backend: Python (Django), PostgreSQL
